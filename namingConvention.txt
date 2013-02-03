@@ -1,0 +1,23 @@
+NAMING CONVENTION
+
+- camel case in the following fashion: 
+
+CONCEPT:
+faction_assetType_name_destructionLevel_type.fileExtension
+area51_tower_satelliteRingSide_d0_ortho.png
+
+MODELS:
+faction_assetType_name_destructionLevel
+
+TEXTURE:
+faction_assetType_name_destructionLevel_mapType
+area51_tower_satelliteRing_d2_diffuse.tga
+
+ANIMATION:
+faction_assetType_name_destructionLevel_@animationName.fileExtension
+area51_tower_satelliteRing_d1@ambient.fbx
+
+
+-------------------------
+
+Make sure to update the status of your work on the asset list so that it can be approved and make it in game.

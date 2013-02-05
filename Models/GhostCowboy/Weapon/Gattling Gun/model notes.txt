@@ -1,0 +1,3 @@
+1876 tris
+
+needs to be scaled down to fit weapon platform

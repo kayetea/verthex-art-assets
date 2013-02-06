@@ -1,0 +1,13 @@
+Native American Tower Base
+
+Full Detail Polycount: 624
+
+Basic Shape Polycount: 48
+
+Balls Polycount: 256
+
+Stripe Polycount: 192
+
+Diamonds Polycount: 128
+
+Note: Extra details removable.

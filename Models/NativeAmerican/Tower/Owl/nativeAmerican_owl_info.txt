@@ -1,0 +1,9 @@
+Native American Tower Owl
+
+Full Detail Polycount: 1698
+
+Notes: Wings required significant polys, can remove detail as needed.
+
+Clipping used to minimize polycount.
+
+Piece hollow, eyes have doors which can open and close (weapon or no weapon).

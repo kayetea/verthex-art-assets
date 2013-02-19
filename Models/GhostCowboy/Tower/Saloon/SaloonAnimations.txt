@@ -1,0 +1,8 @@
+SaloonDoorLeft:1-79
+SaloonDoorRight:1-72
+SaloonShutterBotLeftLeft:1-34
+SaloonShutterBotRightLeft:1-34
+SaloonShutterBotRightRight:1-42
+SaloonShutterTopRightRight:1-30
+SaloonShutterTopRightLeft:1-34
+SaloonShutterTopLeftLeft:1-30

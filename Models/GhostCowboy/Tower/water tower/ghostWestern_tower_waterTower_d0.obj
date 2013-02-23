@@ -1,7 +1,7 @@
 # This file uses centimeters as units for non-parametric coordinates.
 
 mtllib ghostWestern_tower_waterTower_d0.mtl
-g default1
+g default
 v -1.720846 0.880368 1.523911
 v 1.727666 0.880368 1.523911
 v -1.720846 1.013431 1.523911
@@ -3995,7 +3995,7 @@ vn 0.000002 -0.983100 0.183071
 vn 0.000002 -0.983100 0.183071
 vn 0.000002 -0.983100 0.183071
 s off
-g polySurface10 polySurface11 waterTower_baseOBJ_waterTowerOBJ_polySurface7 waterTower_baseOBJ_waterTower_legs waterTower_baseOBJ_polySurface1
+g waterTower_base
 usemtl waterTower_baseOBJ_initialShadingGroup
 f 305/949/1 306/948/2 307/947/3 308/950/4
 f 3/454/5 9/618/6 17/451/7 18/453/8
@@ -4005,7 +4005,6 @@ f 19/621/17 1/625/18 3/454/19 18/453/20
 f 9/618/21 241/612/22 242/450/23 17/451/24
 f 331/782/25 330/781/26 333/779/27 334/780/28
 f 12/143/29 20/85/30 251/73/31 252/140/32
-g polySurface10 polySurface11 waterTower_baseOBJ_waterTowerOBJ_polySurface7 waterTower_baseOBJ_waterTower_platform waterTower_baseOBJ_polySurface1
 f 254/944/33 253/943/34 255/942/35 256/941/36
 f 13/473/37 4/465/38 23/466/39 24/358/40
 f 337/688/41 338/687/42 339/686/43 340/685/44
@@ -4606,7 +4605,7 @@ f 529/661/2417 530/662/2418 608/663/2419 607/664/2420
 f 530/501/2421 538/513/2422 609/514/2423 608/515/2424
 f 538/668/2425 537/667/2426 610/666/2427 609/665/2428
 f 537/296/2429 529/288/2430 607/294/2431 610/295/2432
-g waterTower_legsOBJ_default1
+g default
 v -1.262366 0.876928 0.960223
 v 1.269186 0.876928 0.960223
 v -1.262366 0.876928 -0.900454
@@ -5317,7 +5316,7 @@ vn -0.000000 0.000000 -1.000000
 vn -0.000000 0.000000 -1.000000
 vn -0.000000 0.000000 -1.000000
 s off
-g polySurface9 waterTower_legsOBJ_polySurface10 waterTower_legsOBJ_waterTowerOBJ_polySurface7 waterTower_legsOBJ_waterTower_legs waterTower_legsOBJ_polySurface1
+g waterTower_legs
 usemtl waterTower_legsOBJ_initialShadingGroup
 f 627/1168/2433 628/1085/2434 629/1086/2435 630/951/2436
 f 632/986/2437 631/987/2438 633/988/2439 634/982/2440
@@ -7396,7 +7395,7 @@ vn 0.088284 0.966110 -0.242565
 vn -0.934707 0.043926 -0.352694
 vn -0.934707 0.043926 -0.352694
 s off
-g waterTowerOBJ_polySurface8 waterTowerOBJ_waterTower_body waterTowerOBJ_polySurface1
+g waterTower_body
 usemtl initialShadingGroup
 f 716/1173/2817 715/1172/2818 723/1179/2819 724/1180/2820
 s 1

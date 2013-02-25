@@ -1,0 +1,29 @@
+SFX List (10/59)
+
+COWBOYS (0/21)
+Water Tower: Water Drips, Wood Creaks
+Saloon: Wood Creaks, Glasses Clink, Shoot-Outs, Murmuring
+Jail: Harmonica, Tin cup & bars, Wood Creaks
+Tower Base (Cowboy): Wood Creak, Metal Scraping
+Pistol: Reload Click, Gunshot, Impact, Ricochet
+Gatling Gun: Rapid Fire, Impact, Spin Up
+Cannon: Loading, Boom, Impact
+
+NATIVE AMERICANS (0/16)
+Owl: Drum Beats, Wind Wisps, Owl Screach, Ambient Forest, Low Chant
+Coyote: *Drum Beats, *Wind Wisps, Coyote Howl, *Ambient Forest, *Low Chant
+Bison: *Drum Beats, *Wind Wisps, Bison Grunts, Nose Snorts, *Ambient Forest, *Low Chant
+Arrows: Swoosh, Impact, Blow Gun
+Tomahawk: Whirling Swoosh, Impact
+Mystic: Drums, Wind Chimes, Animal Sounds, *Ambient Forest
+
+ALIENS(10/22)
+Goo Tank: Bleep-Bloops, Fluid Gushes, Server Hum
+Satellites: Beeps, Metal Creaking
+UFO: Hovering, High-pitch Frequency, *Bleep-Bloops
+Light Blaster: Charge Up, Fire, Impact
+Meduim Blaster: Charge Up, Fire, Impact
+Heavy Blaster: Charge Up, Fire, Impact, Eye Closing
+Cows: Moo, Panicked Moo, Frantic Moo, Impact
+
+*Can use same source as first instance

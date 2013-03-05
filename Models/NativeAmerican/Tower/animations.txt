@@ -1,0 +1,4 @@
+All eye animations
+	0-24 opening
+	25-120 stay open
+	121-168 closing

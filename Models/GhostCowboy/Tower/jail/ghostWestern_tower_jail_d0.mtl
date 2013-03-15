@@ -1,16 +1,24 @@
-# MTL written from C:\Users\Colin\Desktop\Gaming Week of 3-1\Models\GhostCowboy\Tower\jail\ghostWestern_tower_jail2_d0.obj
-newmtl Default
+newmtl Default2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ghostWestern_tower_jail_d0_initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
 newmtl ghostWestern_tower_jail_d0_jail_initialShadingGroup
-Kd 0.5 0.5 0.5
-Ns 256
-d 1
-illum 2
-Ka 0 0 0
-Ks 0.2 0.2 0.2
-newmtl initialShadingGroup
-Kd 0.5 0.5 0.5
-Ns 256
-d 1
-illum 2
-Ka 0 0 0
-Ks 0.2 0.2 0.2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

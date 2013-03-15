@@ -1,6 +1,6 @@
 # This file uses centimeters as units for non-parametric coordinates.
 
-mtllib ghostWestern_tower_waterTower_d1..mtl
+mtllib ghostWestern_tower_waterTower_d1.mtl
 g default
 v -1.262370 0.866928 1.020220
 v 1.269190 0.866928 1.020220
